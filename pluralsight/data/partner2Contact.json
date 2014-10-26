@@ -1,0 +1,205 @@
+﻿{
+ "partners": [
+        {  "id":"8001100091", "contactType":"CU", "name":"Keukenhuysch", "address":"Ambacht 4 A, OOSTZAAN, 1511 JZ", "tel":"075-6840200", "fax":"075-6842100" ,
+                "partnercontacts": [
+                                {  "id":"8009007755", "partner_id":"8001100091", "name":"Balogun", "tel":"06-22510078", "fax":"", "mobile":"123456789", "email":"" },
+                                {  "id":"8009008336", "partner_id":"8001100091", "name":"Oostenmeijer", "tel":"075-6840200", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009008535", "partner_id":"8001100091", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100098", "contactType":"CU", "name":"Dedato Europe BV", "address":"Danzigerkade 9 E, AMSTERDAM, 1013 AP", "tel":"206266233", "fax":"206227580" ,
+                "partnercontacts":[
+                                {  "id":"8009000764", "partner_id":"8001100098", "name":"de Jong", "tel":"206266233", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009000765", "partner_id":"8001100098", "name":"B�ttner", "tel":"", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009000766", "partner_id":"8001100098", "name":"van Dijk", "tel":"206266233", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009000767", "partner_id":"8001100098", "name":"Hubert", "tel":"", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009000788", "partner_id":"8001100098", "name":"de Zwart", "tel":"", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009000789", "partner_id":"8001100098", "name":"Rekelhof", "tel":"206266233", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009000790", "partner_id":"8001100098", "name":"Venneman", "tel":"206266233", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009009180", "partner_id":"8001100098", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100100", "contactType":"CU", "name":"Woninginrichting Smitshuyzen BV", "address":"Rozengracht 215, AMSTERDAM, 1016 LZ", "tel":"205218110", "fax":"205218111" ,
+                "partnercontacts":[
+                                {  "id":"8009009181", "partner_id":"8001100100", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100104", "contactType":"CU", "name":"Metz & Co Retail BV", "address":"Leidsestraat 34 36, AMSTERDAM, 1017 PB", "tel":"205207020", "fax":"206243828" ,
+                "partnercontacts":[
+                                {  "id":"8009011455", "partner_id":"8001100104", "name":"Koolbergen", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100105", "contactType":"CU", "name":"EP:Boelaars", "address":"Van Beethovensingel 40 42, ROTTERDAM, 3055 JK", "tel":"102850297", "fax":"102850297" ,
+                "partnercontacts":[
+                                {  "id":"8009007211", "partner_id":"8001100105", "name":"Baks", "tel":"010-4181093", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100107", "contactType":"CU", "name":"L. Pouw & Zn.", "address":"Hagedoornweg 68, AMSTERDAM, 1031 BT", "tel":"206360021", "fax":"206343805" ,
+                "partnercontacts":[
+                                {  "id":"8009007179", "partner_id":"8001100107", "name":"Pouw", "tel":"", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009008648", "partner_id":"8001100107", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100108", "contactType":"CU", "name":"Allsound", "address":"Van Limburg Stirumstraat 111, AMSTERDAM, 1051 BA", "tel":"206864905", "fax":"206848481" ,
+                "partnercontacts":[
+                                {  "id":"8009000833", "partner_id":"8001100108", "name":"Abbas", "tel":"206864905", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100112", "contactType":"CU", "name":"Het Stofzuigerhuis", "address":"Beijerlandselaan 48, ROTTERDAM, 3074 EK", "tel":"104190207", "fax":"104329962" ,
+                "partnercontacts":[
+                                {  "id":"8009007114", "partner_id":"8001100112", "name":"Voogd", "tel":"", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009009182", "partner_id":"8001100112", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100115", "contactType":"CU", "name":"Aaqua-Matic", "address":"Klipper 59, HOORN NH, 1625 EL", "tel":"229248788", "fax":"" ,
+                "partnercontacts":[
+                                {  "id":"8009000867", "partner_id":"8001100115", "name":"Evelo", "tel":"229248788", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009009183", "partner_id":"8001100115", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100117", "contactType":"CU", "name":"Rene's Doe Het Zelf Shop", "address":"Osdorper Ban 108, AMSTERDAM, 1068 MK", "tel":"206197969", "fax":"206108974" ,
+                "partnercontacts":[
+                                {  "id":"8009005321", "partner_id":"8001100117", "name":"van der Horn", "tel":"206197969", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100120", "contactType":"CU", "name":"VOF Monac", "address":"Treubweg 45, DIEMEN, 1112 BA", "tel":"204637951", "fax":"204637954" ,
+                "partnercontacts":[
+                                {  "id":"8009009184", "partner_id":"8001100120", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100122", "contactType":"CU", "name":"Blokker BV", "address":"Poppenbouwing 30, GELDERMALSEN, 4191 NZ", "tel":"205683543", "fax":"205683430" ,
+                "partnercontacts":[
+                                {  "id":"8009007031", "partner_id":"8001100122", "name":"Van der Bank", "tel":"205683480", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009011113", "partner_id":"8001100122", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009011476", "partner_id":"8001100122", "name":"Buter", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100128", "contactType":"CU", "name":"Win On Elektro en Souvenir", "address":"Zeedijk 48 50, AMSTERDAM, 1012 BA", "tel":"206273393", "fax":"206120384" ,
+                "partnercontacts":[
+                                {  "id":"8009009186", "partner_id":"8001100128", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100129", "contactType":"CU", "name":"De Voordeelwinkel", "address":"Ceintuurbaan 17, AMSTERDAM, 1072 ER", "tel":"206716045", "fax":"204714657" ,
+                "partnercontacts":[
+                                {  "id":"8009007009", "partner_id":"8001100129", "name":"Mahfud", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100130", "contactType":"CU", "name":"Raat Interieurbouw", "address":"Offenbachlaan 4, VLIJMEN, 5251 HC", "tel":"653545276", "fax":"204931112" ,
+                "partnercontacts":[
+                                {  "id":"8009000931", "partner_id":"8001100130", "name":"Raat", "tel":"204931110", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009009187", "partner_id":"8001100130", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100132", "contactType":"CU", "name":"XElectrotechnisch Bureau", "address":"Meeuwenlaan 140, AMSTERDAM, 1022 AM", "tel":"206340055", "fax":"206340055" ,
+                "partnercontacts":[
+                                {  "id":"8009009188", "partner_id":"8001100132", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100133", "contactType":"CU", "name":"Van der Hoeven", "address":"mt. Ondinaweg 30, AMSTERDAM, 1033 RG", "tel":"204933388", "fax":"204933862" ,
+                "partnercontacts":[
+                                {  "id":"8009005322", "partner_id":"8001100133", "name":"van der Hoeven", "tel":"204933388", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100137", "contactType":"CU", "name":"Algemene Service Dienst Witgoed", "address":"De Clercqstraat 8, AMSTERDAM, 1052 NC", "tel":"206626831", "fax":"206710341" ,
+                "partnercontacts":[
+                                {  "id":"8009000960", "partner_id":"8001100137", "name":"Relatie", "tel":"204123992", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100138", "contactType":"CU", "name":"X2D&W", "address":"Egelantiersgracht 217, AMSTERDAM, 1015 RK", "tel":"206723212", "fax":"" ,
+                "partnercontacts":[
+                                {  "id":"8009000961", "partner_id":"8001100138", "name":"Danner", "tel":"206723212", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"8001100141", "contactType":"CU", "name":"Eltronos BV", "address":"Schiekade 756, ROTTERDAM, 3032 AL", "tel":"104669640", "fax":"104673405" ,
+                "partnercontacts":[
+                                {  "id":"8009009191", "partner_id":"8001100141", "name":"Sales Email", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015703", "contactType":"OU", "name":"Makro Amsterdam", "address":"De Flinesstraat 9, AMSTERDAM, 1099 CA", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008231", "partner_id":"OH10015703", "name":"Spek Edwin  Spek", "tel":"", "fax":"", "mobile":"", "email":"" },
+                                {  "id":"8009008232", "partner_id":"OH10015703", "name":"Jansen Edward", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015704", "contactType":"OU", "name":"Makro Delft", "address":"Schieweg 104, DELFT, 2627 AR", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008237", "partner_id":"OH10015704", "name":"Kouwenhoven Richard", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015705", "contactType":"OU", "name":"Makro Best", "address":"Brem 4, BEST, 5684 PB", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008234", "partner_id":"OH10015705", "name":"Boer Eric", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015706", "contactType":"OU", "name":"Makro Hengelo", "address":"Diamantstraat 8, HENGELO OV, 7554 TA", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008241", "partner_id":"OH10015706", "name":"Hoffard Jos", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015707", "contactType":"OU", "name":"Makro Vianen", "address":"Edisonweg 4, VIANEN UT, 4131 PC", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008247", "partner_id":"OH10015707", "name":"Laurent Luc", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015708", "contactType":"OU", "name":"Makro Groningen", "address":"Kattegat 1, GRONINGEN, 9723 JP", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008240", "partner_id":"OH10015708", "name":"Vos Bert", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015709", "contactType":"OU", "name":"Makro Nieuwegein", "address":"Laagraven 7, NIEUWEGEIN, 3439 LG", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008243", "partner_id":"OH10015709", "name":"Driessen Paul", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015710", "contactType":"OU", "name":"Makro Beverwijk", "address":"Parallelweg 126, BEVERWIJK, 1948 NN", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008235", "partner_id":"OH10015710", "name":"Overdijk Patrick", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015711", "contactType":"OU", "name":"Makro Barendrecht", "address":"Zeemanstraat 2, BARENDRECHT, 2991 XR", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008233", "partner_id":"OH10015711", "name":"Ruts Ingrid", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015713", "contactType":"OU", "name":"Makro Breda", "address":"Konijnenberg 92, BREDA, 4825 BE", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008236", "partner_id":"OH10015713", "name":"Dobbe Edwin", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015714", "contactType":"OU", "name":"Makro Leeuwarden", "address":"Hidalgoweg 2, LEEUWARDEN, 8938 BA", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008242", "partner_id":"OH10015714", "name":"de Jong Peter", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015715", "contactType":"OU", "name":"Makro Nijmegen", "address":"Energieweg 50, NIJMEGEN, 6541 CX", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008244", "partner_id":"OH10015715", "name":"van Dinther Ton", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015716", "contactType":"OU", "name":"Makro 's-Hertogenbosch", "address":"Moermanstraat 4, 'S-HERTOGENBOSCH, 5222 BD", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008246", "partner_id":"OH10015716", "name":"Kuipers Raul", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015717", "contactType":"OU", "name":"Makro Dordrecht", "address":"Toermalijnring 2000, DORDRECHT, 3316 LC", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008238", "partner_id":"OH10015717", "name":"Van Asten Pieter", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015718", "contactType":"OU", "name":"Makro Duiven", "address":"Nieuwgraaf 28, DUIVEN, 6921 RJ", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008239", "partner_id":"OH10015718", "name":"Tiedink Wout", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015719", "contactType":"OU", "name":"Makro Nuth", "address":"Thermiekstraat 15, NUTH, 6361 HB", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008245", "partner_id":"OH10015719", "name":"Maes John", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        },
+        {  "id":"OH10015720", "contactType":"OU", "name":"Makro Wateringen", "address":"Hoefsmid 10, WATERINGEN, 2292 JJ", "tel":"203980992", "fax":"203980759" ,
+                "partnercontacts":[
+                                {  "id":"8009008248", "partner_id":"OH10015720", "name":"Pronk Remco", "tel":"", "fax":"", "mobile":"", "email":"" }
+                ]
+        }
+ ]
+}

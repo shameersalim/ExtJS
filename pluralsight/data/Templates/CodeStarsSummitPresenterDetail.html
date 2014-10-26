@@ -1,0 +1,187 @@
+﻿<h1>Template Location: /Data/Templates/CodeStarsSummitPresenterDetail.html</h1>
+<h1>
+    <tpl if="approved == true" >
+    Session Approved
+    </tpl>
+    <tpl if="approved != true" >   
+        <font color="red">Session Pending (Not Approved)</font>
+    </tpl>
+</h1>
+
+<h1>
+    <tpl if="notesToSpeaker.length &gt; 0" >
+         <font color="red">{notesToSpeaker}</font>
+    <tpl else>      
+         &nbsp;
+    </tpl>
+</h1>
+
+<!--<tpl if="notesToSpeaker.length &gt; 0" >
+    <h1>{notesToSpeaker}</h1>
+<tpl else>
+        &nbsp; 
+</tpl>-->
+
+
+<br />
+<hr />
+
+<section class="pageContent">
+
+    <h2 class="purpleRibbon">Workshop Detail</h2>
+
+    <section class="workshopInfo">
+        <h2>{title}</h2>
+        <section class="meta">
+            <span class="tag clockx"><i>{sessionTimeCustom}</i></span>
+        </section>
+        <section class="presentationBox">
+            <p>{descriptionFirstParagraph}</p>
+            <div class="collapsible">
+                {descriptionAfterFirstParagraph}
+            </div>
+        </section>
+
+    </section>
+    <section class="workshopLeader">
+            <h2>Workshop</h2>
+            <div class="inner">
+                <tpl for="presenters">
+                   
+                    <tpl if="isProctor != true" >
+                        <div class="leader">
+                            <div class="leftColumn">
+                                <img class="leaderPhoto" src="{imageUrl}?format=jpg&width=175&Height=175&scale=both&mode=crop" alt="Douglasxxxxxxx Crockford" />
+                                <p class="leaderName">{firstName} {lastName}</p>
+                                <p class="leaderURL"><a href="{webSite}">{webSite}</a></p>
+                            </div>
+
+                            <div class="rightColumn">
+                                <h3>{firstName} {lastName}</h3>
+                                <div>{bio}</div>
+                            </div>
+                        </div>
+                    </tpl>
+                </tpl>
+                       
+            </div>
+        </section>
+
+    <tpl if="hasProctors == true" >
+        <section class="proctors">
+            <h2>Proctors</h2>
+            <ul class="proctorList">
+                <tpl for="presenters">
+                   
+                    <tpl if="isProctor == true" >
+                        <li>
+                            <img src="{imageUrl}?format=jpg&width=63&Height=63&scale=both&mode=crop&Bgcolor=FFFFFF" 
+                                 alt="{firstName} {lastName}" />
+                            <h3>{firstName} {lastName}</h3>
+                            <a href="twitter.com/{twitter}" class="url">@{twitter}</a>
+                        </li>
+                    </tpl>
+                </tpl>
+            </ul>
+        </section>
+    </tpl>
+</section>
+
+
+
+<div id='Div1' class="hidden">
+    
+    <hr />
+    <hr />
+    <hr />
+    <h1>{title}</h1>
+    <p>description:</p>
+    <p>
+        {description}
+    </p>
+
+    <p>description short:</p>
+    <p>
+        {descriptionShort}
+    </p>
+    <p>Note To Speaker:</p>
+    <p>
+        {notesToSpeaker}
+    </p>
+
+    <hr />
+    <b>SPEAKERS</b>
+    <hr />
+    <tpl for="presenters">
+        
+        <table>
+            <tr style="width: 400px;">
+                <td>Image (135x135)</td>
+                <td><img src='{imageUrl}?width=135&Height=135&scale=both&mode=pad&Bgcolor=red' /></td>
+            </tr>
+            <tr>
+                <td>id</td>
+                <td>{id}</td>
+            </tr>
+            <tr>
+                <td>first</td>
+                <td>{firstName}</td>
+            </tr>
+            <tr>
+                <td>last</td>
+                <td>{lastName}</td>
+            </tr>
+            <tr>
+                <td>web</td>
+                <td>{webSite}</td>
+            </tr>
+            <tr>
+                <td>shirtSize</td>
+                <td>{shirtSize}</td>
+            </tr>
+            <tr>
+                <td>twitter</td>
+                <td>{twitter}</td>
+            </tr>
+            <tr>
+                <td>facebook</td>
+                <td>{facebook}</td>
+            </tr>
+            <tr>
+                <td>Google Plus</td>
+                <td>{gplus}</td>
+            </tr>
+            <tr>
+                <td>linkedIn</td>
+                <td>{linkedIn}</td>
+            </tr>
+            <tr>
+                <td>phoneNumber</td>
+                <td>{phoneNumber}</td>
+            </tr>
+            <tr>
+                <td>Accept Attendee Email</td>
+                <td>{acceptAttendeeAnonymousEmails}</td>
+            </tr>
+            <tr>
+                <td>company</td>
+                <td>{company}</td>
+            </tr>
+            
+            <tr>
+                <td>bio</td>
+                <td>{bio}</td>
+            </tr>
+             
+        </table>
+        <br/>
+        <hr/>
+    </tpl>
+    <br />
+
+    <p>updated: {updateDate}</p>
+</div>
+
+
+
+
